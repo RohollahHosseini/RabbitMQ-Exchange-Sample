@@ -1,0 +1,30 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RabbitMQ-DirectExchange/DirectExchange/.vs
+/RabbitMQ-DirectExchange/DirectExchange/BasketService/bin/Debug/net9.0
+/RabbitMQ-DirectExchange/DirectExchange/BasketService/obj
+/RabbitMQ-DirectExchange/DirectExchange/OrderService/bin/Debug/net9.0
+/RabbitMQ-DirectExchange/DirectExchange/OrderService/obj
+/RabbitMQ-FanoutExchange/Fanout Exchange/.vs
+/RabbitMQ-FanoutExchange/Fanout Exchange/BasketService/bin/Debug/net9.0
+/RabbitMQ-FanoutExchange/Fanout Exchange/BasketService/obj
+/RabbitMQ-FanoutExchange/Fanout Exchange/EmailService/bin/Debug/net9.0
+/RabbitMQ-FanoutExchange/Fanout Exchange/EmailService/obj
+/RabbitMQ-FanoutExchange/Fanout Exchange/OrderService/bin/Debug/net9.0
+/RabbitMQ-FanoutExchange/Fanout Exchange/OrderService/obj
+/RabbitMQ-HearderExchange/HearderExchange/.vs
+/RabbitMQ-HearderExchange/HearderExchange/BasketService/bin/Debug/net9.0
+/RabbitMQ-HearderExchange/HearderExchange/BasketService/obj
+/RabbitMQ-HearderExchange/HearderExchange/EmailService/bin/Debug/net9.0
+/RabbitMQ-HearderExchange/HearderExchange/EmailService/obj
+/RabbitMQ-HearderExchange/HearderExchange/OrderService/bin/Debug/net9.0
+/RabbitMQ-HearderExchange/HearderExchange/OrderService/obj
+/RabbitMQ-TopicExchange/Topic Exchange/.vs
+/RabbitMQ-TopicExchange/Topic Exchange/BasketService/bin/Debug/net9.0
+/RabbitMQ-TopicExchange/Topic Exchange/BasketService/obj
+/RabbitMQ-TopicExchange/Topic Exchange/EmailService/bin/Debug/net9.0
+/RabbitMQ-TopicExchange/Topic Exchange/EmailService/obj
+/RabbitMQ-TopicExchange/Topic Exchange/OrderService/bin/Debug/net9.0
+/RabbitMQ-TopicExchange/Topic Exchange/OrderService/obj
